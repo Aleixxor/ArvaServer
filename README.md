@@ -1,2 +1,0 @@
-# ArvaServer
-Created with CodeSandbox
